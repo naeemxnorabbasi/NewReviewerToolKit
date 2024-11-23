@@ -1,6 +1,6 @@
 # How to compile the LaTeX Documents
 
-This directory contains LaTeX source files and a `Makefile` to streamline the compilation, management, and cleanup of generated files. For source code click [here](https://github.com/naeemxnorabbasi/NewReviewerToolKit).
+This directory contains LaTeX source files and a `Makefile` to streamline the compilation, management, and cleanup of generated files. For source code click [here](https://github.com/naeemxnorabbasi/NewReviewerToolKit). For instruction click [here](https://naeemxnorabbasi.github.io/NewReviewerToolKit/).
 
 
 ## Directory Structure
