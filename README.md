@@ -15,11 +15,11 @@ pres_1.pdf        # Compiled PDF for Presentation 1
 pres_2.pdf        # Compiled PDF for Presentation 2
 script_1.pdf      # Compiled PDF for Script 1
 script_2.pdf      # Compiled PDF for Script 2
-ISCAS-2025ReviewGuidelines.mp3   # Deep Dive Podcast
-
 ReviewSub01.png   # Image used in one or more LaTeX files
 ReviewSub02.png   # Image used in one or more LaTeX files
-ReviewSub03.png   # Image used in one or more LaTeX files```
+ReviewSub03.png   # Image used in one or more LaTeX files
+ISCAS-2025ReviewGuidelines.mp3    # Deep Dive Podcast
+How-to-Write-an-Abstract.pdf      # Koopman's Article```
 ```
 ## How to Use
 1. **Compile All Documents**  
