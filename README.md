@@ -19,7 +19,7 @@ ReviewSub01.png   # Image used in one or more LaTeX files
 ReviewSub02.png   # Image used in one or more LaTeX files
 ReviewSub03.png   # Image used in one or more LaTeX files
 ISCAS-2025ReviewGuidelines.mp3    # Deep Dive Podcast
-How-to-Write-an-Abstract.pdf      # Koopman's Article```
+How-to-Write-an-Abstract.pdf      # Koopman's Article
 ```
 ## How to Use
 1. **Compile All Documents**  
